@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="12px" viewBox="0 0 7 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Left Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-306.000000, -606.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Bank-Account-Card" transform="translate(30.000000, 539.000000)">
+                <g id="Group" transform="translate(32.000000, 49.000000)">
+                    <g id="Arrows/Right" transform="translate(244.000000, 18.000000)">
+                        <path d="M2.11243687,6 L6.74371843,1.46323438 C7.08542719,1.12849928 7.08542719,0.585786438 6.74371843,0.25105133 C6.40200968,-0.0836837768 5.84799032,-0.0836837768 5.50628157,0.25105133 L0.256281566,5.39390847 C-0.0854271888,5.72864358 -0.0854271888,6.27135642 0.256281566,6.60609153 L5.50628157,11.7489487 C5.84799032,12.0836838 6.40200968,12.0836838 6.74371843,11.7489487 C7.08542719,11.4142136 7.08542719,10.8715007 6.74371843,10.5367656 L2.11243687,6 Z" id="Left-Arrow" transform="translate(3.500000, 6.000000) rotate(-180.000000) translate(-3.500000, -6.000000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
