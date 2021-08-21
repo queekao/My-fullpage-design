@@ -62,6 +62,10 @@ h1,h2,h3,h4,h5,h6,p{
 .icon-2{
 	background-image: url('img/instagram.svg');
 }
+@media(max-width: 768px){
+	.icon .icon-2{display: none}
+	.icon .icon-1{display: none}
+}
 
 
 /*------------------------------*/
@@ -251,9 +255,6 @@ h1,h2,h3,h4,h5,h6,p{
 }
 .nav__icon-group .icon-btn:last-child{
 	margin-right: 12px;
-}
-@media(max-widht: 768px){
-	.nav__icon-group{display:none}
 }
 /*menu-toggle*/
 .menu-toggle{
