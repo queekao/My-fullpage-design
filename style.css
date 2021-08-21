@@ -63,8 +63,8 @@ h1,h2,h3,h4,h5,h6,p{
 	background-image: url('img/instagram.svg');
 }
 @media(max-width: 768px){
-	.icon .icon-2{display: none}
-	.icon .icon-1{display: none}
+	.icon.icon-2{display: none}
+	.icon.icon-1{display: none}
 }
 
 
