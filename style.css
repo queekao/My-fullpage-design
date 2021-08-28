@@ -436,7 +436,7 @@ h1,h2,h3,h4,h5,h6,p{
 @media(max-width: 768px){
 	.info{
 		padding-top: 36px;
-		padding-bottom: 36px;
+		padding-bottom: 48px;
 	}
 	.info__title{
 		font-size: 40px;
@@ -528,7 +528,7 @@ h1,h2,h3,h4,h5,h6,p{
 @media(max-width: 768px){
 	.contact2 .contact__item:nth-child(1){
       float: right;
-		clear: both;
+	clear: both;
 	}
 		
 	
