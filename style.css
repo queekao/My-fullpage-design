@@ -28,7 +28,7 @@ h1,h2,h3,h4,h5,h6,p{
 	color: #fff;
 	margin-bottom: 48px;
 }
-@media(max-width: 750px){
+@media(max-width: 760px){
 	.heading{
 		font-size: 48px;
 	}
@@ -108,7 +108,7 @@ h1,h2,h3,h4,h5,h6,p{
 	top: 50%;
 	transform: translateY(-50%);
 }
-@media (max-width: 750px){
+@media (max-width: 760px){
 	.side-nav{
 		display: none;
 	}
@@ -156,7 +156,7 @@ h1,h2,h3,h4,h5,h6,p{
 	padding-bottom: 80px;
 }
 
-@media(max-width: 750px){
+@media(max-width: 760px){
 	.section__inner{
 	padding-top: 80px;
 	padding-bottom: 80pxx;
@@ -197,7 +197,7 @@ h1,h2,h3,h4,h5,h6,p{
 	height: 80px;
 	background-size: 60px;
 }
-@media (max-width: 750px){
+@media (max-width: 760px){
 	.navbar__logo{
 		height: 80px;
 		background-size: 80px;
@@ -249,7 +249,7 @@ h1,h2,h3,h4,h5,h6,p{
 	padding: 12px;
 	padding-top: 16px;
 }
-@media (min-width: 750px){
+@media (min-width: 760px){
 	.menu-toggle{
 		display: none;
 	}
@@ -261,8 +261,9 @@ h1,h2,h3,h4,h5,h6,p{
 	background-color: #dcb677;
 	margin-bottom: 8px;
 }
+
 /* popup-nav */
-@media (max-width: 750px){
+@media (max-width: 760px){
 	.popup-nav{
 		position: fixed;
 		top: 0;
@@ -412,7 +413,7 @@ h1,h2,h3,h4,h5,h6,p{
 .info__btn{
 	margin-top: 24px;
 }
-@media(max-width: 750px){
+@media(max-width: 760px){
 	.info{
 		margin-top: 100px;
 		padding-top: 36px;
@@ -466,7 +467,7 @@ h1,h2,h3,h4,h5,h6,p{
     box-shadow: 5px 0 30px rgba(0, 0, 0, 0.2);
 
 }
-@media(max-width: 750px){
+@media(max-width: 760px){
 	.thumbnails{
 		height: 200%;
 	}
@@ -512,7 +513,7 @@ h1,h2,h3,h4,h5,h6,p{
 .contact__link:hover{
 	color:#dcb677 ;
 }
-@media(max-width: 750px){
+@media(max-width: 760px){
 	.contact2 .contact__item:nth-child(1){
       float: right;
 		clear: both;
@@ -559,7 +560,7 @@ h1,h2,h3,h4,h5,h6,p{
 	margin-top: 24px;
 	margin-right: 16px;
 }
-@media(max-width: 750px){
+@media(max-width: 760px){
 	.footer__icon-group .icon-btn{
 		display: none;
 	}
@@ -658,7 +659,7 @@ h1,h2,h3,h4,h5,h6,p{
 		width: 200%;
 		
 }
-@media(max-width: 750px){
+@media(max-width: 766px){
 	.parallax-container-about .frame{
 		height: 100%;
 		width: 100%;
@@ -669,7 +670,7 @@ h1,h2,h3,h4,h5,h6,p{
 	height: 150%;
 	width: 100%;
 }
-@media(max-width: 750px){
+@media(max-width: 766px){
 	.push-right{
 	left: 50%;
    }
