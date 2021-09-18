@@ -58,12 +58,13 @@ a:focus{
 	box-sizing: border-box;
 	font-size: 28px;
 	line-height: 32px;
-	background-color: white;
+	background-color: ;
 	border-radius: 5px;
-	box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+	
 }
 .icon-1{
 	background-image: url('img/facebook.svg');
+	
 }
 .icon-2{
 	background-image: url('img/instagram.svg');
