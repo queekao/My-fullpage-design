@@ -650,6 +650,20 @@ a:focus{
 	50%{border: 6px solid #484848;opacity: 0.8;}
 	100%{border: 6px solid #dcb677;opacity: 1;}
 }
+@media(max-width: 480px){
+	.parallax-container .frame__inner{
+	width: 100%;
+	padding-top: 130%;
+	/*border: 6px solid #dcb677;*/
+	box-shadow: 0 5px 30px rgba(0, 0, 0, 0.2);
+	animation: blink 3s infinite;
+}
+@keyframes blink{
+	0%{border:3px solid #dcb677 ; opacity: 1;}
+	50%{border: 3px solid #484848;opacity: 0.8;}
+	100%{border: 3px solid #dcb677;opacity: 1;}
+}
+}
 /*.mouse{
 	width: 15px;
 	height: 15px;
